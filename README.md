@@ -1,6 +1,6 @@
 <div align="center">
   
-# Roberta D'Agostino AKA Mandragora
+# Roberta AKA Mandragora
 ### `hacker` · `web3 builder` · `digital nomad` 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Italian+software+Engineer;Core+%40+Womxn+in+Web3+Privacy+Now+%F0%9F%AB%80;Ambassador+%40+42+Blockchain+%E2%9B%93;Building+in+public%2C+one+commit+at+a+time)](https://git.io/typing-svg)
